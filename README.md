@@ -11,9 +11,9 @@ Week 6-9: Implemented similarity model using cosine similarity
 
 Top Job Recommendations:
 
-Data Scientist with Python and Machine Learning --> Match Score: 0.82  
-Data Analyst with SQL and Excel --> Match Score: 0.75  
-AI Engineer with NLP --> Match Score: 0.68
+Data Scientist with Python and Machine Learning - Match Score: 0.82  
+Data Analyst with SQL and Excel - Match Score: 0.75  
+AI Engineer with NLP - Match Score: 0.68
 
   
  Future Work
