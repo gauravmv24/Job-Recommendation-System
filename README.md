@@ -6,6 +6,15 @@ Project Timeline
  Week 1–3: Problem understanding and research on job recommendation systems  
  Week 4-6: Designed approach using NLP techniques (TF-IDF)  
 Week 6-9: Implemented similarity model using cosine similarity  
+
+ Sample Output
+
+Top Job Recommendations:
+
+Data Scientist with Python and Machine Learning --> Match Score: 0.82  
+Data Analyst with SQL and Excel --> Match Score: 0.75  
+AI Engineer with NLP --> Match Score: 0.68
+
   
  Future Work
 
