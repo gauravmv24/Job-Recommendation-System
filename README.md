@@ -7,3 +7,9 @@ Project Timeline
  Week 4-6: Designed approach using NLP techniques (TF-IDF)  
 Week 6-9: Implemented similarity model using cosine similarity  
   
+ Future Work
+
+Integrate advanced NLP models like BERT for better understanding
+ Use real-time job data from job portals
+ Build a web interface for user interaction
+ Improve accuracy using larger datasets
